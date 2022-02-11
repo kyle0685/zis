@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "547444868736",
+    "project_id": "zis-application-6d511",
+    "storage_bucket": "zis-application-6d511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547444868736:android:755d5e117a5b378110c865",
+        "android_client_info": {
+          "package_name": "com.example.zis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547444868736-5krdr9tc2pilceq5d74v3c8g9ea75n1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUj83CuyQo18HrvIMuos0EqXZv3WIePQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547444868736-5krdr9tc2pilceq5d74v3c8g9ea75n1b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547444868736-jcv2l2o9e954rajtiuav7j5c0gtn2ltn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
